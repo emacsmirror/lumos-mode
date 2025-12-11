@@ -1,10 +1,20 @@
 ;;; lumos-mode.el --- Major mode for LUMOS schema language -*- lexical-binding: t -*-
 
+;; Copyright (C) 2025 LUMOS Contributors
+;; SPDX-License-Identifier: MIT OR Apache-2.0
+
 ;; Author: LUMOS Contributors
 ;; Version: 0.1.0
 ;; Package-Requires: ((emacs "26.1") (lsp-mode "8.0"))
 ;; Keywords: languages solana blockchain
 ;; URL: https://github.com/getlumos/lumos-mode
+
+;; This file is NOT part of GNU Emacs.
+
+;; Licensed under either of
+;;   * MIT license (LICENSE-MIT or https://opensource.org/licenses/MIT)
+;;   * Apache License, Version 2.0 (LICENSE-APACHE or https://www.apache.org/licenses/LICENSE-2.0)
+;; at your option.
 
 ;;; Commentary:
 
